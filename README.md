@@ -1,4 +1,4 @@
 kicad-library
 =============
 
-Kicad library
+Rework of standard Kicad library.
